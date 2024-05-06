@@ -1,0 +1,9 @@
+${repositoryHome}\Java Solution\ciss-security\src\main\java\com\avianca\ciss\security\azure\ActiveDirectoryClientServiceImpl.java
+${repositoryHome}\Java Solution\ciss-security\src\main\java\com\avianca\ciss\security\implementations\AuthenticationServiceImpl.java
+${repositoryHome}\Java Solution\crew-components\src\main\java\com\avianca\crew\notification\jms\CrewJmsConfiguration.java
+${repositoryHome}\Java Solution\ciss-dataaccess\src\main\java\com\avianca\ciss\dataaccess\jms\config\JmsConnectionConfig.java
+${repositoryHome}\Java Solution\poyo-notifications\src\main\java\com\avianca\ciss\poyo\notifications\implementations\NotificationDelegetorServiceImpl.java
+${repositoryHome}\Java Solution\ciss-common\src\main\java\com\avianca\ciss\integration\security\implementations\ServiceIntegrationSecurityImpl.java
+${repositoryHome}\Java Solution\crew-components\src\main\java\com\avianca\crew\notification\implementations\ftp\FtpUploadFileServiceImpl.java
+${repositoryHome}\Java Solution\pom.xml
+${repositoryHome}\Java Solution\crew-gendeck\pom.xml
